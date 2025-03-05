@@ -1,10 +1,9 @@
 # 👤 Sobre Mim
 
 ## 🏆 Julio Benjamim Bernardo Brige
-
 💻 Sou um desenvolvedor Full-Stack apaixonado por tecnologia, design UI/UX e desenvolvimento web. Desde cedo, sempre fui curioso sobre como as coisas funcionam no mundo digital, o que me levou a explorar diversas áreas da tecnologia. Meu foco é criar soluções inovadoras e eficientes, combinando design intuitivo e funcionalidades robustas.
----
 
+---
 ## 🚀 Habilidades
 
 🖥️ **Back-end:** Flask, Django, Node.js, PHP  
@@ -12,8 +11,8 @@
 🗄️ **Banco de Dados:** MySQL, PostgreSQL, SQLite  
 🖌️ **Design UI/UX:** Figma, Photoshop  
 🛠️ **Outros:** Git, Docker, APIs, Segurança de Dados  
----
 
+---
 ## 🎯 Experiência Profissional
 
 ✅ Desenvolvimento de aplicações web escaláveis utilizando Flask e Django  
@@ -23,7 +22,6 @@
 ✅ Desenvolvimento de APIs para integração entre diferentes serviços e plataformas  
 
 ---
-
 ## 📂 Projetos Destacados
 
 🔹 **Gerenciador de Senhas** - 🔒 Aplicação segura para armazenamento de senhas utilizando criptografia avançada em Python.  
@@ -31,12 +29,13 @@
 🔹 **Sistema de Upload Seguro** - 📁 Solução desenvolvida para gerenciamento e armazenamento de arquivos, garantindo segurança e acessibilidade.  
 🔹 **E-commerce Completo** - 🛒 Plataforma de vendas online com integração de pagamentos e gerenciamento de estoque.  
 
+---
 ## 📌 Contato
 
 🔗 **GitHub:** [juliobrige](https://github.com/juliobrige)  
 🔗 **LinkedIn:** [Julio Benjamim Bernardo](https://www.linkedin.com/in/j%C3%BAlio-benjamim-bernardo-158404313/)  
 📧 **Email:** juliobenjmaimbernardobrige@gmail.com  
 
-Sempre estou aberto a novas oportunidades, colaborações e desafios. Se quiser trocar ideias ou discutir um projeto, entre em contato! 🚀
+---
 
 ✨ Desenvolvido por **Julio Benjamim Bernardo Brige** 🚀
